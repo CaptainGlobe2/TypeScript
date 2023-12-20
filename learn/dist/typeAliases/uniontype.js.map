@@ -1,0 +1,1 @@
+{"version":3,"file":"uniontype.js","sourceRoot":"","sources":["../../src/typeAliases/uniontype.ts"],"names":[],"mappings":";AAAA,SAAS,OAAO,CAAC,MAAuB;IAEpC,IAAG,OAAO,MAAM,KAAK,QAAQ,EAAC,CAAC;QAC3B,OAAO,MAAM,GAAG,GAAG,CAAA;IACvB,CAAC;SACG,CAAC;QACD,OAAO,QAAQ,CAAC,MAAM,CAAC,GAAC,GAAG,CAAC;IAChC,CAAC;AACL,CAAC"}
